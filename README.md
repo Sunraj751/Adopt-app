@@ -1,4 +1,4 @@
-**Adopt-app**
+# Adopt-app
 
 ><p align="center"><b>Compiling and executing the app via Terminal</b></p>
 
